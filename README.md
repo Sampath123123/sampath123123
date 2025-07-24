@@ -8,11 +8,9 @@ Active hackathon participant and problem-solver — I thrive in fast-paced, coll
 ---
 
 ## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gugulothu-sampath-829b33299)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/sampath123123)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:gugulothusampath538@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](your-linkedin-url)  
+[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:your-email@example.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/sampath123123)
 ---
 
 ## 🛠 Tech Stack
@@ -53,9 +51,9 @@ Active hackathon participant and problem-solver — I thrive in fast-paced, coll
 
 ## 📬 Contact Me
 
-- 📧 [gugulothusampath538@gmail.com](mailto:gugulothusampath538@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gugulothu-sampath-829b33299)  
-- 💻 [GitHub](https://github.com/sampath123123)
+- 📧 Email: [gugulothusampath538@gmail.com](mailto:gugulothusampath538@gmail.com)  
+- 🔗 Linkedin [LinkedIn](https://www.linkedin.com/in/gugulothu-sampath-829b33299)  
+- 💻 Github [GitHub](https://github.com/sampath123123)
 
 ---
 
