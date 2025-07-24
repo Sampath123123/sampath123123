@@ -8,10 +8,18 @@ Active hackathon participant and problem-solver — I thrive in fast-paced, coll
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](your-linkedin-url)  
-[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:your-email@example.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/sampath123123)
----
+
+<p>
+  <a href="your-linkedin-url">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/sampath123123">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
+  </a>
+</p>
 
 ## 🛠 Tech Stack
 
