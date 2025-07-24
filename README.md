@@ -3,7 +3,7 @@
 **CSE (AI & ML)** student at Vasavi College of Engineering, Hyderabad  
 Passionate about backend systems, AI/ML, and distributed computing  
 Currently working on projects involving **Machine Learning**, **Full-Stack Web Development**, and **real-time backend engineering**  
-Active hackathon participant and problem-solver — I thrive where technology meets real-world impact
+Active hackathon participant and problem-solver — I thrive in fast-paced, collaborative environments where technology creates real-world impact
 
 ---
 
@@ -20,7 +20,7 @@ Active hackathon participant and problem-solver — I thrive where technology me
 ### Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C/C++](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Web Development  
@@ -29,6 +29,7 @@ Active hackathon participant and problem-solver — I thrive where technology me
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+---
 
 ## 📊 Machine Learning & Data Libraries
 
@@ -41,7 +42,7 @@ Active hackathon participant and problem-solver — I thrive where technology me
 
 ---
 
-## 🛠 Tools & Platforms
+## ⚙️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -52,13 +53,13 @@ Active hackathon participant and problem-solver — I thrive where technology me
 
 ## 📬 Contact Me
 
-![Email](https://gugulothusampath538@gmail.com)
-![LinkedIn](https://www.linkedin.com/in/your-link)  
-![GitHub](https://github.com/sampath123123)
+- 📧 [gugulothusampath538@gmail.com](mailto:gugulothusampath538@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gugulothu-sampath-829b33299)  
+- 💻 [GitHub](https://github.com/sampath123123)
 
 ---
 
 ## 🙏 Thank You for Visiting!
 
-Thanks for stopping by! Feel free to check out my repositories and connect with me.  
-I’m always open to learning, collaborating, and building something impactful 🚀
+Thanks for stopping by! Feel free to explore my repositories and connect with me.  
+I'm always open to learning, collaborating, and building meaningful tech solutions 🚀
