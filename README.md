@@ -70,6 +70,7 @@ I’m interested in backend systems, machine learning, edge AI, distributed comp
 - Email: [gugulothusampath538@gmail.com](mailto:gugulothusampath538@gmail.com)
 - LinkedIn: [gugulothu-sampath](https://www.linkedin.com/in/gugulothu-sampath-829b33299)
 - GitHub: [sampath123123](https://github.com/sampath123123)
+- portfolio: [Sampath](https://sampath-gugulothu.vercel.app/)
 
 ## Thanks for Visiting
 
